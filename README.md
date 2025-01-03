@@ -26,3 +26,18 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/CafeBar.git
 
+CaféBar/
+│
+├── index.html         # The main landing page of the website
+├── contacto.html      # Contact page
+├── cursos.html        # Courses page
+├── entrada.html       # Entry or introductory page
+├── nosotros.html      # About Us page
+├── css/
+│   └── styles.css     # CSS file for the page styles
+├── img/
+│   └── [images]       # Folder containing images (e.g., logos, backgrounds)
+├── js/
+│   └── script.js      # JavaScript file for additional functionality
+└── README.md          # Project's README file
+
